@@ -1,5 +1,5 @@
-#Snape
-###A magical theme for WordPress
+# Snape
+### A magical theme for WordPress
 
 Snape is a magical theme for WordPress,based on [Bootstrap](https://github.com/twbs/bootstrap) and [Font Awesome](https://github.com/FortAwesome/Font-Awesome). Created and maintained by [Vtrois](https://www.vtrois.com). Stay up to date with the latest release and announcements on [Bulletin Board](https://www.vtrois.com/projects/theme-snape.html).
 
@@ -84,7 +84,7 @@ Snape/
 
 - v1.0 - Initialize the project and say Good Morning to everyone!
 
-##License
+## License
 
 - The Snape Html,CSS,JavaScript,and PHP files are licensed under the Mozilla Public License Version 2.0:
   - https://www.mozilla.org/MPL/2.0/
